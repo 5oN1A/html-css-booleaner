@@ -1,5 +1,5 @@
 body {
-    width: 70%;
+    width: 60%;
     margin: auto;
 }
 
@@ -12,11 +12,16 @@ header {
     background-size: 320px;
     background-repeat: repeat-x;
     height: 80px;
+    width: 100%;
 }
 
 #logo {
     width: 150px;
     padding-top: 40px;
+}
+
+article{
+    width: 100%;
 }
 
 /***************Titolo**************/
@@ -44,15 +49,24 @@ h1 {
 
 }
 
-.immagini {
+/***********Immagini****************/
+
+figure{
+    margin: 0px;
+    height: 300px;
     width: 100%;
 }
 
 #foto-1 {
-    width: 60%;
-    display:
+    height: 100%;
+    width: auto;
 }
 
 #foto-2 {
-    width: 40%;
+    height: 100%;
+    width: auto;
+}
+
+figcaption {
+    font-size: 9px;
 }

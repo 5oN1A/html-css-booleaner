@@ -1,0 +1,31 @@
+body {
+    width: 70%;
+    margin: auto;
+}
+
+header {
+    background-image: url(../img/pattern.png);
+    background-color: lightskyblue;
+    background-size: 320px;
+    background-repeat: repeat-x;
+    height: 80px;
+}
+
+#logo {
+    width: 150px;
+    padding-top: 40px;
+    padding-left: ;
+}
+
+.immagini {
+    width: 100%;
+}
+
+#foto-1 {
+    width: 60%;
+    display:
+}
+
+#foto-2 {
+    width: 40%;
+}

@@ -72,7 +72,7 @@ figcaption {
     font-size: 9px;
 }
 
-/************testo****************/
+/************Testo****************/
 
 .testo-1 {
     margin-top: 40px;
@@ -85,3 +85,25 @@ figcaption {
 ul {
     padding-left: 15px;
 } 
+
+/*******Tabella****************/
+
+table {
+    width: 100%; 
+}
+
+thead {
+    background-color: cornflowerblue;
+}
+
+.col-1, .col-2 {
+    width: 20%;
+}
+
+.col-3 {
+    width: 60%;
+}
+
+.riga-1, .riga-3 {
+    background-color: cyan;
+}
